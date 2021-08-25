@@ -23,5 +23,5 @@ Os criadores originais das imagens possuem os direitos autorais.
 As imagens publicadas nos Estados Unidos são automaticamente protegidas por direitos autorais de seus proprietários, 
 mesmo que não contenham explicitamente um aviso de direitos autorais.
 Você não pode reproduzir imagens de direitos autorais sem a permissão de seu proprietário, exceto em casos de "uso justo",
-or you could risk running into lawyer's warnings, cease-and-desist letters, and copyright suits.
+ou você pode correr o risco de receber advertências do advogado, cartas de cessar e desistir e processos de direitos autorais.
 Please be very careful before its usage! Use this script/code only for educational purposes.
