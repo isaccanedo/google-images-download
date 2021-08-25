@@ -20,8 +20,8 @@ O Imagens do Google é um mecanismo de busca que apenas indexa imagens e permite
 Ele NÃO produz suas próprias imagens e, como tal, não possui direitos autorais sobre nenhuma delas.
 Os criadores originais das imagens possuem os direitos autorais.
 
-Images published in the United States are automatically copyrighted by their owners,
-even if they do not explicitly carry a copyright warning.
+As imagens publicadas nos Estados Unidos são automaticamente protegidas por direitos autorais de seus proprietários, 
+mesmo que não contenham explicitamente um aviso de direitos autorais.
 You may not reproduce copyright images without their owner's permission,
 except in "fair use" cases,
 or you could risk running into lawyer's warnings, cease-and-desist letters, and copyright suits.
