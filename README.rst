@@ -18,7 +18,7 @@ Aviso Legal
 Este programa permite que você baixe toneladas de imagens do Google. Não baixe ou use qualquer imagem que viole seus termos de direitos autorais.
 O Imagens do Google é um mecanismo de busca que apenas indexa imagens e permite que você as encontre.
 Ele NÃO produz suas próprias imagens e, como tal, não possui direitos autorais sobre nenhuma delas.
-The original creators of the images own the copyrights.
+Os criadores originais das imagens possuem os direitos autorais.
 
 Images published in the United States are automatically copyrighted by their owners,
 even if they do not explicitly carry a copyright warning.
