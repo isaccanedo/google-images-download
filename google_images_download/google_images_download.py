@@ -16,7 +16,7 @@ if cur_version >= version:  # Se a versão atual do Python for 3.0 ou superior
     import http.client
     from http.client import IncompleteRead, BadStatusLine
     http.client._MAXHEADERS = 1000
-else:  # If the Current Version of Python is 2.x
+else:  # Se a versão atual do Python for 2.x
     import urllib2
     from urllib2 import Request, urlopen
     from urllib2 import URLError, HTTPError
