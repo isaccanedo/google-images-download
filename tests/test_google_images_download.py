@@ -25,7 +25,7 @@ def test_download_images_to_default_location():
     except KeyError:
         pass
     else:
-        assert False, "This test checks download to default location yet an output folder was provided"
+        assert False, "Este verifica o download para o local padrão, mas uma pasta de saída foi fornecida"
 
     output_folder_path = os.path.join(os.path.realpath('.'), 'downloads', '{}'.format(argumnets['keywords']))
     if os.path.exists(output_folder_path):
