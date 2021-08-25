@@ -2,7 +2,7 @@
 # In[ ]:
 #  coding: utf-8
 
-###### Searching and Downloading Google Images to the local disk ######
+###### Pesquisa e download de Imagens do Google para o disco local ######
 
 # Import Libraries
 import sys
