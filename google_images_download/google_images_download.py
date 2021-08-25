@@ -8,7 +8,7 @@
 import sys
 version = (3, 0)
 cur_version = sys.version_info
-if cur_version >= version:  # If the Current Version of Python is 3.0 or above
+if cur_version >= version:  # Se a versão atual do Python for 3.0 ou superior
     import urllib.request
     from urllib.request import Request, urlopen
     from urllib.request import URLError, HTTPError
