@@ -12,7 +12,7 @@ Documentation
 * `Examples and Code Samples <https://google-images-download.readthedocs.io/en/latest/examples.html#>`__
 
 
-Disclaimer
+Aviso Legal
 ==========
 
 This program lets you download tons of images from Google.
