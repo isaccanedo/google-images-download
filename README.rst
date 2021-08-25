@@ -15,8 +15,7 @@ Documentation
 Aviso Legal
 ==========
 
-This program lets you download tons of images from Google.
-Please do not download or use any image that violates its copyright terms.
+Este programa permite que você baixe toneladas de imagens do Google. Não baixe ou use qualquer imagem que viole seus termos de direitos autorais.
 Google Images is a search engine that merely indexes images and allows you to find them.
 It does NOT produce its own images and, as such, it doesn't own copyright on any of them.
 The original creators of the images own the copyrights.
