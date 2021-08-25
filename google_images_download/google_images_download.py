@@ -24,7 +24,7 @@ else:  # Se a versão atual do Python for 2.x
     import httplib
     from httplib import IncompleteRead, BadStatusLine
     httplib._MAXHEADERS = 1000
-import time  # Importing the time library to check the time of code execution
+import time  # Importando a biblioteca de tempo para verificar o tempo de execução do código
 import os
 import argparse
 import ssl
