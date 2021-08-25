@@ -61,7 +61,7 @@ def user_input():
             records.append(arguments)
         records_count = len(records)
     else:
-        # Taking command line arguments from users
+        # Obtendo argumentos de linha de comando dos usuários
         parser = argparse.ArgumentParser()
         parser.add_argument('-k', '--keywords', help='delimited list input', type=str, required=False)
         parser.add_argument('-kf', '--keywords_from_file', help='extract list of keywords from a text file', type=str, required=False)
