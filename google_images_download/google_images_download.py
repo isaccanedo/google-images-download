@@ -127,7 +127,7 @@ class googleimagesdownload:
     def __init__(self):
         pass
 
-    # Downloading entire Web Document (Raw Page Content)
+    # Baixando todo o documento da web (conteúdo da página bruta)
     def download_page(self,url):
         version = (3, 0)
         cur_version = sys.version_info
