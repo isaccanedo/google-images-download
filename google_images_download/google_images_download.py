@@ -178,7 +178,7 @@ class googleimagesdownload:
         except Exception as e:
             print("Parece que não podemos localizar o caminho que 'chromedriver' (use o '--chromedriver' "
                   "argumento para especificar o caminho para o executável.) ou o navegador google chrome não é "
-                  "installed on your machine (exception: %s)" % e)
+                  "instalado na sua máquina (exception: %s)" % e)
             sys.exit()
         browser.set_window_size(1024, 768)
 
