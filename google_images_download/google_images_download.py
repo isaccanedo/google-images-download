@@ -162,7 +162,7 @@ class googleimagesdownload:
                 return "Página não encontrada"
 
 
-    # Download Page for more than 100 images
+    # Página de download para mais de 100 imagens
     def download_extended_page(self,url,chromedriver):
         from selenium import webdriver
         from selenium.webdriver.common.keys import Keys
