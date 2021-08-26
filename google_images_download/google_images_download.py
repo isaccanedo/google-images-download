@@ -157,7 +157,7 @@ class googleimagesdownload:
                 return page
             except:
                 print("Não foi possível abrir o URL. Verifique sua conexão com a Internet e / ou configurações SSL \n"
-                      "If you are using proxy, make sure your proxy settings is configured correctly")
+                      "Se você estiver usando proxy, certifique-se de que suas configurações de proxy estejam configuradas corretamente")
                 sys.exit()
                 return "Page Not found"
 
