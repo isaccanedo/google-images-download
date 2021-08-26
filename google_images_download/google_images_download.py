@@ -156,7 +156,7 @@ class googleimagesdownload:
                 page = response.read()
                 return page
             except:
-                print("Could not open URL. Please check your internet connection and/or ssl settings \n"
+                print("Não foi possível abrir o URL. Verifique sua conexão com a Internet e / ou configurações SSL \n"
                       "If you are using proxy, make sure your proxy settings is configured correctly")
                 sys.exit()
                 return "Page Not found"
