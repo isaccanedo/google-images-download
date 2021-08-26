@@ -197,11 +197,11 @@ class googleimagesdownload:
             browser.find_element_by_id("smb").click()
             for i in range(50):
                 element.send_keys(Keys.PAGE_DOWN)
-                time.sleep(0.3)  # bot id protection
+                time.sleep(0.3)  # proteção de bot id
         except:
             for i in range(10):
                 element.send_keys(Keys.PAGE_DOWN)
-                time.sleep(0.3)  # bot id protection
+                time.sleep(0.3)  # proteção de bot id
 
         print("Atingido o final da página.")
         time.sleep(0.5)
