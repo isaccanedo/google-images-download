@@ -207,7 +207,7 @@ class googleimagesdownload:
         time.sleep(0.5)
 
         source = browser.page_source #page source
-        #close the browser
+        # feche o navegador
         browser.close()
 
         return source
