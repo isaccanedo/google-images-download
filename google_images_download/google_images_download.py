@@ -222,7 +222,7 @@ class googleimagesdownload:
         return invalid_escape.sub(self.replace_with_byte, brokenjson)
 
 
-    # Finding 'Next Image' from the given raw page
+    # Encontrar a 'Próxima Imagem' na página bruta fornecida
     def get_next_tab(self,s):
         start_line = s.find('class="dtviD"')
         if start_line == -1:  # If no links are found then give an error!
