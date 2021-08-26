@@ -143,7 +143,7 @@ class googleimagesdownload:
                 print("Não foi possível abrir o URL. Verifique sua conexão com a Internet e / ou configurações SSL \n"
                       "Se você estiver usando proxy, certifique-se de que suas configurações de proxy estejam configuradas corretamente")
                 sys.exit()
-        else:  # If the Current Version of Python is 2.x
+        else:  # Se a versão atual do Python for 2.x
             try:
                 headers = {}
                 headers['User-Agent'] = "Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.27 Safari/537.17"
