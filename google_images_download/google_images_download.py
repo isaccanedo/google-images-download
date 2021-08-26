@@ -159,7 +159,7 @@ class googleimagesdownload:
                 print("Não foi possível abrir o URL. Verifique sua conexão com a Internet e / ou configurações SSL \n"
                       "Se você estiver usando proxy, certifique-se de que suas configurações de proxy estejam configuradas corretamente")
                 sys.exit()
-                return "Page Not found"
+                return "Página não encontrada"
 
 
     # Download Page for more than 100 images
