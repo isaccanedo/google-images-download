@@ -188,7 +188,7 @@ class googleimagesdownload:
         print("Conseguindo muitas imagens. Isso pode levar algum tempo...")
 
         element = browser.find_element_by_tag_name("body")
-        # Scroll down
+        # Rolar para baixo
         for i in range(30):
             element.send_keys(Keys.PAGE_DOWN)
             time.sleep(0.3)
