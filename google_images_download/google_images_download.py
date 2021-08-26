@@ -203,7 +203,7 @@ class googleimagesdownload:
                 element.send_keys(Keys.PAGE_DOWN)
                 time.sleep(0.3)  # bot id protection
 
-        print("Reached end of Page.")
+        print("Atingido o final da página.")
         time.sleep(0.5)
 
         source = browser.page_source #page source
