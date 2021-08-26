@@ -218,7 +218,7 @@ class googleimagesdownload:
         return chr(int(match.group(0)[1:], 8))
 
     def repair(self,brokenjson):
-        invalid_escape = re.compile(r'\\[0-7]{1,3}')  # up to 3 digits for byte values up to FF
+        invalid_escape = re.compile(r'\\[0-7]{1,3}')  # Até 3 dígitos para valores de byte até FF
         return invalid_escape.sub(self.replace_with_byte, brokenjson)
 
 
