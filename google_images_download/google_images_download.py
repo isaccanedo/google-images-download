@@ -213,7 +213,7 @@ class googleimagesdownload:
         return source
 
 
-    #Correcting the escape characters for python2
+    # Corrigindo os caracteres de escape para python2
     def replace_with_byte(self,match):
         return chr(int(match.group(0)[1:], 8))
 
