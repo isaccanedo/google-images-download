@@ -177,7 +177,7 @@ class googleimagesdownload:
             browser = webdriver.Chrome(chromedriver, chrome_options=options)
         except Exception as e:
             print("Parece que não podemos localizar o caminho que 'chromedriver' (use o '--chromedriver' "
-                  "argumento para especificar o caminho para o executável.) or google chrome browser is not "
+                  "argumento para especificar o caminho para o executável.) ou o navegador google chrome não é "
                   "installed on your machine (exception: %s)" % e)
             sys.exit()
         browser.set_window_size(1024, 768)
