@@ -55,8 +55,8 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 # -- Opções para saída HTML -------------------------------------------------
 
-# The theme to use for HTML and HTML Help pages.  See the documentation for
-# a list of builtin themes.
+# O tema a ser usado para páginas de ajuda em HTML e HTML. 
+# Consulte a documentação para obter uma lista de temas integrados.
 #
 html_theme = 'bizstyle'
 
