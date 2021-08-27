@@ -31,9 +31,9 @@ html_context = {
 
 # -- Informações do Projeto -----------------------------------------------------
 
-project = 'Google Images Download'
-copyright = '2019, Hardik Vasa'
-author = 'Hardik Vasa'
+project = 'Download de imagens do Google'
+copyright = 'Github'
+author = 'Github'
 
 
 # -- General configuration ---------------------------------------------------
