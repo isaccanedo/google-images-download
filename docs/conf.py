@@ -24,7 +24,7 @@ def setup(app):
     app.add_stylesheet('overrides.css')  # também pode ser um URL
 
 html_context = {
-	"display_github": False, # Add 'Edit on Github' link instead of 'View page source'
+	"display_github": False, # Adicione o link Editar no Github 'em vez de' Ver o código-fonte da página
 	"last_updated": True,
 	"commit": False,
      }
