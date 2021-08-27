@@ -60,9 +60,8 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 #
 html_theme = 'bizstyle'
 
-# Add any paths that contain custom static files (such as style sheets) here,
-# relative to this directory. They are copied after the builtin static files,
-# so a file named "default.css" will overwrite the builtin "default.css".
+# Adicione quaisquer caminhos que contenham arquivos estáticos personalizados 
+# (como folhas de estilo) aqui, em relação a este diretório. Eles são copiados após os arquivos estáticos integrados, portanto, um arquivo denominado "default.css" substituirá o "default.css" integrado.
 html_static_path = ['_static']
 
 html_sidebars = { '**': ['globaltoc.html', 'relations.html', 'searchbox.html'] }
