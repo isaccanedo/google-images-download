@@ -6,9 +6,7 @@
 
 # -- Configuração de caminho --------------------------------------------------------------
 
-# If extensions (or modules to document with autodoc) are in another directory,
-# add these directories to sys.path here. If the directory is relative to the
-# documentation root, use os.path.abspath to make it absolute, like shown here.
+Se as extensões (ou módulos para documentar com autodoc) estiverem em outro diretório, adicione esses diretórios a sys.path aqui. Se o diretório for relativo à raiz da documentação, use os.path.abspath para torná-lo absoluto, como mostrado aqui.
 #
 # import os
 # import sys
