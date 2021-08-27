@@ -1,4 +1,4 @@
-# Configuration file for the Sphinx documentation builder.
+# Arquivo de configuração para o construtor de documentação Sphinx.
 #
 # This file only contains a selection of the most common options. For a full
 # list see the documentation:
