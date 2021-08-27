@@ -29,7 +29,7 @@ html_context = {
 	"commit": False,
      }
 
-# -- Project information -----------------------------------------------------
+# -- Informações do Projeto -----------------------------------------------------
 
 project = 'Google Images Download'
 copyright = '2019, Hardik Vasa'
