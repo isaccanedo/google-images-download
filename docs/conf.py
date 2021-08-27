@@ -1,7 +1,7 @@
 # Arquivo de configuração para o construtor de documentação Sphinx.
 #
-# Este arquivo contém apenas uma seleção das opções mais comuns. For a full
-# list see the documentation:
+# Este arquivo contém apenas uma seleção das opções mais comuns. Por um completo
+# lista veja a documentação:
 # http://www.sphinx-doc.org/en/master/config
 
 # -- Path setup --------------------------------------------------------------
