@@ -1,6 +1,6 @@
 # Arquivo de configuração para o construtor de documentação Sphinx.
 #
-# This file only contains a selection of the most common options. For a full
+# Este arquivo contém apenas uma seleção das opções mais comuns. For a full
 # list see the documentation:
 # http://www.sphinx-doc.org/en/master/config
 
