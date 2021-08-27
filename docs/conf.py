@@ -44,7 +44,7 @@ author = 'Github'
 extensions = [
 ]
 
-# Add any paths that contain templates here, relative to this directory.
+# Adicione quaisquer caminhos que contenham modelos aqui, relativos a este diretório.
 templates_path = ['_templates']
 
 # List of patterns, relative to source directory, that match files and
