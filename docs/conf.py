@@ -47,9 +47,9 @@ extensions = [
 # Adicione quaisquer caminhos que contenham modelos aqui, relativos a este diretório.
 templates_path = ['_templates']
 
-# List of patterns, relative to source directory, that match files and
-# directories to ignore when looking for source files.
-# This pattern also affects html_static_path and html_extra_path.
+# Lista de padrões, em relação ao diretório de origem, que correspondem a arquivos 
+# e diretórios a serem ignorados ao procurar por arquivos de origem.
+# Este padrão também afeta html_static_path e html_extra_path.
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 
