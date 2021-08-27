@@ -36,7 +36,7 @@ copyright = 'Github'
 author = 'Github'
 
 
-# -- General configuration ---------------------------------------------------
+# -- Configuração geral ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
