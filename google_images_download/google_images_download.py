@@ -4,7 +4,7 @@
 
 ###### Pesquisa e download de Imagens do Google para o disco local ######
 
-# Import Libraries
+# Bibliotecas de importação
 import sys
 version = (3, 0)
 cur_version = sys.version_info
