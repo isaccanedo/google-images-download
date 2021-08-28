@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # In[ ]:
-#  coding: utf-8
+#  codificação: utf-8
 
 ###### Pesquisa e download de Imagens do Google para o disco local ######
 
