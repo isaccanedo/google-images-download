@@ -4,7 +4,7 @@ Instalação
 
 Link para `Documentation Homepage <https://google-images-download.readthedocs.io/en/latest/index.html>`__
 
-Você pode usar **um dos métodos abaixo** to download and use this repository.
+Você pode usar **um dos métodos abaixo** para baixar e usar este repositório.
 
 Install using pip
 -----------------
