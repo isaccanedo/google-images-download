@@ -23,7 +23,7 @@ Instalar manualmente usando CLI
     $ cd google-images-download && sudo python setup.py install
 
 
-Manually install using UI
+Instalar manualmente usando a IU
 -------------------------
 
 Go to the `repo on github <https://github.com/hardikvasa/google-images-download>`__ ==> Click on 'Clone or Download' ==> Click on 'Download ZIP' and save it on your local disk.
