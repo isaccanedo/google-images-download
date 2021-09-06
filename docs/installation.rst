@@ -6,7 +6,7 @@ Link para `Documentation Homepage <https://google-images-download.readthedocs.io
 
 Você pode usar **um dos métodos abaixo** para baixar e usar este repositório.
 
-Install using pip
+Instalar usando pip
 -----------------
 
 .. code-block:: bash
