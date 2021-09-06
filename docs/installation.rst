@@ -14,7 +14,7 @@ Instalar usando pip
     $ pip install google_images_download
 
 
-Manually install using CLI
+Instalar manualmente usando CLI
 --------------------------
 
 .. code-block:: bash
