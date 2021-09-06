@@ -26,4 +26,4 @@ Instalar manualmente usando CLI
 Instalar manualmente usando a IU
 -------------------------
 
-Go to the `repo on github <https://github.com/hardikvasa/google-images-download>`__ ==> Click on 'Clone or Download' ==> Click on 'Download ZIP' and save it on your local disk.
+Vá para o `repo on github <https://github.com/hardikvasa/google-images-download>`__ ==> Click on 'Clone or Download' ==> Click on 'Download ZIP' and save it on your local disk.
