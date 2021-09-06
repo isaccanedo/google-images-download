@@ -1,5 +1,5 @@
 ============
-Installation
+Instalação
 ============
 
 Link to `Documentation Homepage <https://google-images-download.readthedocs.io/en/latest/index.html>`__
