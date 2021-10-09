@@ -1,10 +1,10 @@
 Google Images Download
-######################
+
 
 Script Python para 'pesquisar' e 'baixar' centenas de imagens do Google para o disco rígido local!
 
-Documentation
-=============
+Documentação
+
 
 * `Documentation Homepage <https://google-images-download.readthedocs.io/en/latest/index.html>`__
 * `Installation <https://google-images-download.readthedocs.io/en/latest/installation.html>`__
